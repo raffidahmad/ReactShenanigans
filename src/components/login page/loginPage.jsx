@@ -32,8 +32,7 @@ function LoginForm(props) {
     const options = {
       method: 'GET',
       // headers: {
-      //     'X-RapidAPI-Key': 'd88a1580a2msh471bbe2899e791dp190f0ejsn60c3e685ec12',
-      //     'X-RapidAPI-Host': 'love-calculator.p.rapidapi.com'
+      //     
       // }
     };
 
